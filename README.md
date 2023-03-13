@@ -1,2 +1,2 @@
-# terniondev.github.com
-Home Pare of Ternion Projects
+# terniondev.github.io
+Home Page of the Ternion Projects.
